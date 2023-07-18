@@ -1,0 +1,11 @@
+C:\Users\Admin\Desktop\BIOS Setting\VMWareView\VMWareView\bin\Debug\VMWareView.exe.config
+C:\Users\Admin\Desktop\BIOS Setting\VMWareView\VMWareView\bin\Debug\VMWareView.exe
+C:\Users\Admin\Desktop\BIOS Setting\VMWareView\VMWareView\bin\Debug\VMWareView.pdb
+C:\Users\Admin\Desktop\BIOS Setting\VMWareView\VMWareView\obj\Debug\VMWareView.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\BIOS Setting\VMWareView\VMWareView\obj\Debug\VMWareView.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\BIOS Setting\VMWareView\VMWareView\obj\Debug\VMWareView.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\BIOS Setting\VMWareView\VMWareView\obj\Debug\VMWareView.exe
+C:\Users\Admin\Desktop\BIOS Setting\VMWareView\VMWareView\obj\Debug\VMWareView.pdb
+C:\Users\Admin\Desktop\BIOS Setting\VMWareView\VMWareView\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\BIOS Setting\VMWareView\VMWareView\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\BIOS Setting\VMWareView\VMWareView\obj\Debug\VMWareView.csproj.CopyComplete
